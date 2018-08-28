@@ -8,7 +8,6 @@ while a > 0:
 
     b = b+1
 
+    a = int(input())
+
 print(b)
-
-
-
